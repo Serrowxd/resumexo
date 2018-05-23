@@ -5,7 +5,7 @@ import './LowerHead.css';
 class LowerHead extends Component {
   render() {
     return (
-      <div>
+      <div className="lowerHeadC">
         <h1 className="lowerHead">I am Kevin Jolley,</h1>
         <h2 className="lowerText">a freelance developer and designer.</h2>
         <h3 className="lowerGoal">

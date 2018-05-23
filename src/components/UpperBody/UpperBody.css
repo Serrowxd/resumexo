@@ -2,7 +2,8 @@
   padding-top: 4%;
   background: #e7eaed;
   height: 40rem;
-  overflow: hidden;
+  /* background-color: #000000fa !important; */
+  /* color: whitesmoke; */
 }
 
 .whatDoCol {
@@ -21,6 +22,7 @@
 
 .whatDoP {
   padding-left: 2%;
+
   font-size: 1.5rem;
 }
 
@@ -36,6 +38,7 @@
 
 .F:link {
   color: black;
+  /* color: whitesmoke; */
 }
 
 .F:hover {

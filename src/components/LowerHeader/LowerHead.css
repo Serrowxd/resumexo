@@ -1,4 +1,10 @@
+.lowerHeadC {
+  /* background-color: darkgray; */
+}
+
 .lowerHead {
+  /* background-color: darkgray; */
+  /* color: whitesmoke; */
   display: block;
   margin: 0 auto;
   text-align: center;
@@ -8,11 +14,15 @@
 }
 
 .lowerText {
+  /* background-color: darkgray; */
+  /* color: whitesmoke; */
   text-align: center;
   margin-top: 15px;
 }
 
 .lowerGoal {
+  /* background-color: darkgray; */
+  /* color: whitesmoke; */
   text-align: center;
   margin-top: 10px;
   padding-bottom: 100px;
