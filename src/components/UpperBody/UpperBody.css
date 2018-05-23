@@ -1,0 +1,47 @@
+.upperBody {
+  padding-top: 4%;
+  background: #e7eaed;
+  height: 40rem;
+}
+
+.whatDoCol {
+  margin-left: 6%;
+}
+
+.whatDo {
+  font-size: 3.5rem;
+  padding-bottom: 1%;
+}
+
+.whatDoT {
+  padding-left: 1%;
+  font-size: 2rem;
+}
+
+.whatDoP {
+  padding-left: 2%;
+  font-size: 1.5rem;
+}
+
+.L {
+  text-align: center;
+  /* margin-left: 0%; */
+  /* margin-right: 28%; */
+}
+
+.F {
+  margin-right: 0%;
+}
+
+.F:link {
+  color: black;
+}
+
+.F:hover {
+  text-decoration: none;
+  color: gray;
+}
+
+.colLink {
+  padding-top: 4rem;
+}

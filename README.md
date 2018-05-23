@@ -10,6 +10,8 @@ https://taminomartinius.de/
 
 https://praneshravi.in/
 
+https://pierre.io/
+
 ## Dependencies:
 
 `react`
@@ -23,3 +25,7 @@ https://praneshravi.in/
 `axios`
 
 `react-scripts`
+
+## Colors:
+
+`Background`: #E7EAED
