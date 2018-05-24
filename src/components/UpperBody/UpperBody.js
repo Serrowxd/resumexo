@@ -26,7 +26,7 @@ class UpperBody extends Component {
               <h1 className="whatDo L"> Follow Me </h1>
               <Col sm={{ size: 'auto', offset: 5 }} className="colLink">
                 <a
-                  href="twitch.tv/serrowpls"
+                  href="https://github.com/Serrowxd"
                   target="_blank"
                   className="whatDoT F"
                 >
@@ -35,7 +35,7 @@ class UpperBody extends Component {
               </Col>
               <Col sm={{ size: 'auto', offset: 5 }} className="colLink">
                 <a
-                  href="twitch.tv/serrowpls"
+                  href="https://www.linkedin.com/in/kevin-jolley-26b600141/"
                   target="_blank"
                   className="whatDoT F"
                 >
@@ -43,11 +43,7 @@ class UpperBody extends Component {
                 </a>
               </Col>
               <Col sm={{ size: 'auto', offset: 5 }} className="colLink">
-                <a
-                  href="twitch.tv/serrowpls"
-                  target="_blank"
-                  className="whatDoT F"
-                >
+                <a href="" target="_blank" className="whatDoT F">
                   Twitter
                 </a>
               </Col>
