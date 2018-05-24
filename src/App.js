@@ -9,6 +9,7 @@ import Filler from './components/Filler';
 import LowerHead from './components/LowerHeader/LowerHeader';
 import UpperBody from './components/UpperBody/UpperBody';
 import Body from './components/Body/Body';
+import Footer from './components/Footer/Footer';
 
 class App extends Component {
   render() {
@@ -27,7 +28,9 @@ class App extends Component {
         <div>
           <Body />
         </div>
-        <div>{/* <Filler /> */}</div>
+        <div>
+          <Footer />
+        </div>
       </div>
     );
   }
