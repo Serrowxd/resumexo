@@ -1,5 +1,7 @@
 import React, { Component } from 'react';
 
+import './NavBar.css';
+
 import {
   Collapse,
   Navbar,
@@ -29,19 +31,13 @@ class NavBar extends Component {
   render() {
     return (
       <div className="NavBarBackground">
-        <Navbar color="dark" dark expand="md">
-          <NavbarBrand href="/">Serrow</NavbarBrand>
+        <Navbar light expand="md" className="navB">
+          <NavbarBrand href="/">Logo Here</NavbarBrand>
           <NavbarToggler onClick={this.toggle} />
           <Collapse isOpen={this.state.isOpen} navbar>
             <Nav className="ml-auto" navbar>
               <NavItem>
-                <NavLink href="/Resume/">Resume</NavLink>
-              </NavItem>
-              <NavItem>
-                <NavLink href="/Projects/">Projects</NavLink>
-              </NavItem>
-              <NavItem>
-                <NavLink href="https://github.com/Serrowxd">GitHub</NavLink>
+                <NavLink href="/">Download Resume</NavLink>
               </NavItem>
             </Nav>
           </Collapse>

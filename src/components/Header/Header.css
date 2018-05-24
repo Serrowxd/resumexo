@@ -18,7 +18,7 @@
 
 .display-1 {
   /* padding-top: 7%; */
-  padding-top: 12%; /* 12% looks like it sets it dead center on 1920x1080 */
+  padding-top: 10%; /* 12% looks like it sets it dead center on 1920x1080 */
   text-align: center;
 }
 

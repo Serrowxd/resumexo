@@ -46,6 +46,11 @@
   color: gray;
 }
 
+.F:visited {
+  color: black;
+  text-decoration: none;
+}
+
 .colLink {
   padding-top: 4rem;
 }

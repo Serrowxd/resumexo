@@ -15,7 +15,7 @@ class App extends Component {
     return (
       <div>
         <div className="containerDiv">
-          {/* <NavBar /> */}
+          <NavBar />
           <Header />
         </div>
         <div className="lowerHeadDiv">
@@ -27,12 +27,7 @@ class App extends Component {
         <div>
           <Body />
         </div>
-        <div>
-          {/* <Filler />
-          <Filler />
-          <Filler />
-          <Filler /> */}
-        </div>
+        <div>{/* <Filler /> */}</div>
       </div>
     );
   }

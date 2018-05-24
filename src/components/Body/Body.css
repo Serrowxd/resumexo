@@ -3,3 +3,18 @@
   margin-top: 70px;
   font-size: 80px;
 }
+
+.bodyH {
+  background-color: #ffffff !important;
+}
+
+.display-2 {
+  text-align: center;
+}
+
+.img {
+  display: block;
+  margin: 0 auto;
+  padding-top: 2rem;
+  width: 50%;
+}

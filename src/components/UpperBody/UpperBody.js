@@ -1,5 +1,4 @@
 import React, { Component } from 'react';
-import { Progress } from 'antd';
 import { Container, Row, Col, Jumbotron, Button } from 'reactstrap';
 
 import './UpperBody.css';
