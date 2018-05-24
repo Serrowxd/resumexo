@@ -1,6 +1,6 @@
 .containerDiv {
   display: block;
-  margin: 0 auto;
+  margin: 0;
   max-width: 1920px;
   background-color: whitesmoke;
 }
