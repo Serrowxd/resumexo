@@ -36,19 +36,15 @@
   margin-right: 0%;
 }
 
-.F:link {
+.F:link,
+.F:visited {
   color: black;
   /* color: whitesmoke; */
 }
 
 .F:hover {
   text-decoration: none;
-  color: gray;
-}
-
-.F:visited {
-  color: black;
-  text-decoration: none;
+  color: #00d9ff;
 }
 
 .colLink {

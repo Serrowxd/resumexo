@@ -11,15 +11,26 @@ class UpperBody extends Component {
           <Row className="upperBody">
             <Col className="whatDoCol">
               <h1 className="whatDo"> What I do </h1>
-              <h4 className="whatDoT"> Front-End </h4>
+              <h4 className="whatDoT">
+                <span>Front-End</span>
+              </h4>
               <p className="whatDoP">
                 JavaScript, CSS3, HTML, React, Ember, Bootstrap, Vue
               </p>
-              <h4 className="whatDoT"> Back-End </h4>
+              <h4 className="whatDoT">
+                {' '}
+                <span> Back-End </span>{' '}
+              </h4>
               <p className="whatDoP"> NodeJS, APIs, MongoDB, Passport </p>
-              <h4 className="whatDoT"> Mobile / Apps </h4>
+              <h4 className="whatDoT">
+                {' '}
+                <span>Mobile / Apps</span>{' '}
+              </h4>
               <p className="whatDoP"> React Native, Electron </p>
-              <h4 className="whatDoT"> Deployment </h4>
+              <h4 className="whatDoT">
+                {' '}
+                <span>Deployment</span>{' '}
+              </h4>
               <p className="whatDoP"> Heroku, Firebase, Netlify, mLab </p>
             </Col>
             <Col sm={{ size: 5, offset: 0 }}>

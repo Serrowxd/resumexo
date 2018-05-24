@@ -6,11 +6,13 @@ class LowerHead extends Component {
   render() {
     return (
       <div className="lowerHeadC">
-        <h1 className="lowerHead">I am Kevin Jolley,</h1>
+        <h1 className="lowerHead">
+          I am <span> Kevin Jolley </span>,
+        </h1>
         <h2 className="lowerText">a freelance developer and designer.</h2>
         <h3 className="lowerGoal">
-          I started my journey in December of 2017, this page is dedicated to my
-          progress as a developer.
+          I started my journey in <span>December of 2017</span>, this page is
+          dedicated to my progress as a developer.
         </h3>
       </div>
     );
