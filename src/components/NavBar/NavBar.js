@@ -2,6 +2,8 @@ import React, { Component } from 'react';
 
 import './NavBar.css';
 
+import img from './cat.png';
+
 import {
   Collapse,
   Navbar,
@@ -32,7 +34,9 @@ class NavBar extends Component {
     return (
       <div className="NavBarBackground">
         <Navbar light expand="md" className="navB">
-          <NavbarBrand href="/">Logo</NavbarBrand>
+          <NavbarBrand href="/">
+            <img class="imgNav" src={img} alt="fatcat" />
+          </NavbarBrand>
           <NavbarToggler onClick={this.toggle} />
           <Collapse isOpen={this.state.isOpen} navbar>
             <Nav className="ml-auto" navbar>
