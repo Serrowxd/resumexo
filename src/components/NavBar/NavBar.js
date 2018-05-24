@@ -2,7 +2,7 @@ import React, { Component } from 'react';
 
 import './NavBar.css';
 
-import img from './cat.png';
+import img from './paw.png';
 
 import {
   Collapse,
@@ -35,7 +35,7 @@ class NavBar extends Component {
       <div className="NavBarBackground">
         <Navbar light expand="md" className="navB">
           <NavbarBrand href="/">
-            <img class="imgNav" src={img} alt="fatcat" />
+            <img class="imgNav" src={img} alt="Sha Print" />
           </NavbarBrand>
           <NavbarToggler onClick={this.toggle} />
           <Collapse isOpen={this.state.isOpen} navbar>

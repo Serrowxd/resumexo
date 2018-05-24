@@ -3,6 +3,7 @@
 }
 
 .imgNav {
-  margin-left: 3%;
-  width: 25%;
+  position: absolute;
+  transform: translate(0%, -40%);
+  width: 3.5rem;
 }
