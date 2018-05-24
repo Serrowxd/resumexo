@@ -9,10 +9,6 @@
 .headerB {
   /* position: absolute; */
   overflow: hidden;
-  top: 50%;
-  left: 50;
-  transform: translate(-0%, -0%);
-  width: auto;
   height: 949px;
 }
 
