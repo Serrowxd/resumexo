@@ -1,5 +1,7 @@
 # Kevin Jolley's Resume Documentation
 
+## ~ Icons by the amazing Neho ~
+
 ## Project Notes
 
 After multiple attempts, I'm going to try and make something really simplistic. Listing inspiration below.
