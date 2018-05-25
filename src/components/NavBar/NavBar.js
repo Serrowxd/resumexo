@@ -2,7 +2,7 @@ import React, { Component } from 'react';
 
 import './NavBar.css';
 
-import img from './paw.png';
+import img from './no_text.png';
 
 import {
   Collapse,
