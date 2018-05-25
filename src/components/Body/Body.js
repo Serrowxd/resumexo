@@ -12,7 +12,8 @@ class Body extends Component {
           <Container fluid>
             <h1 className="display-2">Projects</h1>
             <div>
-              <img class="img" src={img} alt="if I had any.. :(" />
+              {/* <img class="img" src={img} alt="if I had any.. :(" /> */}
+              <h1 className="soonToBe"> Coming Soon! </h1>
             </div>
           </Container>
         </Jumbotron>
