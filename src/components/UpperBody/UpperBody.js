@@ -8,7 +8,7 @@ class UpperBody extends Component {
     return (
       <div>
         <Container fluid>
-          <Row className="upperBody">
+          <Row className="upperBody C">
             <Col className="whatDoCol">
               <h1 className="whatDo"> What I do </h1>
               <h4 className="whatDoT">
@@ -34,12 +34,12 @@ class UpperBody extends Component {
               <p className="whatDoP"> Heroku, Firebase, Netlify, mLab </p>
             </Col>
             <Col sm={{ size: 5, offset: 0 }}>
-              <h1 className="whatDo L"> Follow Me </h1>
+              <h1 className="whatDo upperL"> Follow Me </h1>
               <Col sm={{ size: 'auto', offset: 5 }} className="colLink">
                 <a
                   href="https://github.com/Serrowxd"
                   target="_blank"
-                  className="whatDoT F"
+                  className="whatDoT upperF"
                 >
                   Github
                 </a>
@@ -48,7 +48,7 @@ class UpperBody extends Component {
                 <a
                   href="https://www.linkedin.com/in/kevin-jolley-26b600141/"
                   target="_blank"
-                  className="whatDoT F"
+                  className="whatDoT upperF"
                 >
                   LinkedIn
                 </a>
@@ -57,7 +57,7 @@ class UpperBody extends Component {
                 <a
                   href="https://www.instagram.com/serrowxd"
                   target="_blank"
-                  className="whatDoT F"
+                  className="whatDoT upperF"
                 >
                   Instagram
                 </a>
@@ -66,7 +66,7 @@ class UpperBody extends Component {
                 <a
                   href="https://twitter.com/Serrowxd"
                   target="_blank"
-                  className="whatDoT F"
+                  className="whatDoT upperF"
                 >
                   Twitter
                 </a>

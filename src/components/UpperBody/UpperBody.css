@@ -1,6 +1,5 @@
 .upperBody {
   padding-top: 4%;
-  background: #e7eaed;
   height: 40rem;
   /* background-color: #000000fa !important; */
   /* color: whitesmoke; */
@@ -26,24 +25,24 @@
   font-size: 1.5rem;
 }
 
-.L {
+.upperL {
   padding-bottom: 0;
   text-align: center;
   /* margin-left: 0%; */
   /* margin-right: 28%; */
 }
 
-.F {
+.upperF {
   margin-right: 0%;
 }
 
-.F:link,
-.F:visited {
+.upperF:link,
+.upperF:visited {
   color: black;
   /* color: whitesmoke; */
 }
 
-.F:hover {
+.upperF:hover {
   text-decoration: none;
   /* color: #00d9ff; */
   color: #ca1bfc;

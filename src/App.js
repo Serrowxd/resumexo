@@ -9,6 +9,8 @@ import Filler from './components/Filler';
 import LowerHead from './components/LowerHeader/LowerHeader';
 import UpperBody from './components/UpperBody/UpperBody';
 import Body from './components/Body/Body';
+import LowerBody from './components/LowerBody/LowerBody';
+import Contact from './components/Contact/Contact';
 import Footer from './components/Footer/Footer';
 
 class App extends Component {
@@ -27,6 +29,12 @@ class App extends Component {
         </div>
         <div>
           <Body />
+        </div>
+        <div>
+          <LowerBody />
+        </div>
+        <div>
+          <Contact />
         </div>
         <div>
           <Footer />

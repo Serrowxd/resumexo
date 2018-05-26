@@ -33,3 +33,9 @@ https://pierre.io/
 `Background`: #E7EAED
 
 `text`: #CA1BFC
+
+## Color Codes:
+
+`.C`: Background
+`.D`: White Background !important
+`span`: Colored Text

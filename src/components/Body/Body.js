@@ -8,7 +8,7 @@ class Body extends Component {
   render() {
     return (
       <div className="">
-        <Jumbotron fluid className="bodyH">
+        <Jumbotron fluid className="bodyH D">
           <Container fluid>
             <h1 className="display-2">Projects</h1>
             <div>

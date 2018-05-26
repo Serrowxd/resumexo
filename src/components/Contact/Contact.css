@@ -1,0 +1,22 @@
+.contactTxt {
+  margin-top: 3rem;
+  margin-bottom: 1rem;
+  text-align: center;
+}
+
+.contactContainer {
+  height: 30rem;
+}
+
+#label {
+  text-align: center;
+  width: 50%;
+}
+
+.form-control {
+  margin-left: 25%;
+}
+
+.contactButton {
+  margin-left: 46.6%;
+}
