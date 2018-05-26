@@ -12,7 +12,7 @@
 
 .whatDo {
   font-size: 3.5rem;
-  padding-bottom: 1%;
+  padding-bottom: 3%;
 }
 
 .whatDoT {
@@ -27,6 +27,7 @@
 }
 
 .L {
+  padding-bottom: 0;
   text-align: center;
   /* margin-left: 0%; */
   /* margin-right: 28%; */
@@ -44,9 +45,10 @@
 
 .F:hover {
   text-decoration: none;
-  color: #00d9ff;
+  /* color: #00d9ff; */
+  color: #ca1bfc;
 }
 
 .colLink {
-  padding-top: 4rem;
+  padding-top: 3rem;
 }

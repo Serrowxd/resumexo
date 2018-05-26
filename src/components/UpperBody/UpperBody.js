@@ -54,7 +54,20 @@ class UpperBody extends Component {
                 </a>
               </Col>
               <Col sm={{ size: 'auto', offset: 5 }} className="colLink">
-                <a href="" target="_blank" className="whatDoT F">
+                <a
+                  href="https://www.instagram.com/serrowxd"
+                  target="_blank"
+                  className="whatDoT F"
+                >
+                  Instagram
+                </a>
+              </Col>
+              <Col sm={{ size: 'auto', offset: 5 }} className="colLink">
+                <a
+                  href="https://twitter.com/Serrowxd"
+                  target="_blank"
+                  className="whatDoT F"
+                >
                   Twitter
                 </a>
               </Col>

@@ -31,3 +31,5 @@ https://pierre.io/
 ## Colors:
 
 `Background`: #E7EAED
+
+`text`: #CA1BFC
