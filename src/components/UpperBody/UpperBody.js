@@ -15,21 +15,18 @@ class UpperBody extends Component {
                 <span>Front-End</span>
               </h4>
               <p className="whatDoP">
-                JavaScript, CSS3, HTML, React, Ember, Bootstrap, Vue
+                JavaScript, CSS3, HTML5, React, Redux, Ember, Bootstrap, Vue
               </p>
               <h4 className="whatDoT">
-                {' '}
-                <span> Back-End </span>{' '}
+                <span> Back-End </span>
               </h4>
               <p className="whatDoP"> NodeJS, APIs, MongoDB, Passport </p>
               <h4 className="whatDoT">
-                {' '}
-                <span>Mobile / Apps</span>{' '}
+                <span>Mobile / Apps</span>
               </h4>
               <p className="whatDoP"> React Native, Electron </p>
               <h4 className="whatDoT">
-                {' '}
-                <span>Deployment</span>{' '}
+                <span>Deployment</span>
               </h4>
               <p className="whatDoP"> Heroku, Firebase, Netlify, mLab </p>
             </Col>
