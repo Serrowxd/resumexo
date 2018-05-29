@@ -19,10 +19,10 @@ class LowerBody extends Component {
               </h1>
               <h4>
                 I have worked with computers my entire life, dating back to my
-                first experience at the age of 3 when I first experiened Doom on
-                a Windows '95 computer in my Grandpa's office, all the way up to
-                current where I'm pulling 38 hour stints behind a computer
-                screen. I always go at 100%, anything less is a waste of energy.
+                first experience at the age of 3 when I played Doom on a Windows
+                '95 computer in my Grandpa's office, all the way up to current
+                where I'm pulling 38 hour stints behind a computer screen. I
+                always go at 100%, anything less is a waste of energy.
               </h4>
 
               <h4 className="lowhh">
