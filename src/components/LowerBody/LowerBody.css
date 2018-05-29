@@ -19,6 +19,23 @@
 }
 
 .lowerTxt {
+  margin-top: -2.5rem;
   font-size: 4rem;
   text-align: center;
+  padding-bottom: 1rem;
+}
+
+.lowQuote {
+  padding-top: 2%;
+  font-size: 1.28rem;
+}
+
+.lowList {
+  margin-top: 0.5%;
+  font-size: 1.1rem;
+}
+
+.lowhh {
+  padding-top: 0.5%;
+  padding-bottom: 0.5%;
 }
