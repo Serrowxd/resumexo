@@ -12,19 +12,20 @@ class UpperBody extends Component {
             <Col className="whatDoCol">
               <h1 className="whatDo"> What I do </h1>
               <h4 className="whatDoT">
+                <span>Languages</span>
+              </h4>
+              <p className="whatDoP">JavaScript, C, HTML5, CSS3, Markdown</p>
+              <h4 className="whatDoT">
                 <span>Front-End</span>
               </h4>
               <p className="whatDoP">
-                JavaScript, CSS3, HTML5, React, Redux, Ember, Bootstrap, Vue
+                React, Redux, Ember, Bootstrap, Vue, JQuery, React Native,
+                Electron
               </p>
               <h4 className="whatDoT">
-                <span> Back-End </span>
+                <span>Back-End</span>
               </h4>
-              <p className="whatDoP"> NodeJS, APIs, MongoDB, Passport </p>
-              <h4 className="whatDoT">
-                <span>Mobile / Apps</span>
-              </h4>
-              <p className="whatDoP"> React Native, Electron </p>
+              <p className="whatDoP">NodeJS, APIs, MongoDB, Passport</p>
               <h4 className="whatDoT">
                 <span>Deployment</span>
               </h4>
