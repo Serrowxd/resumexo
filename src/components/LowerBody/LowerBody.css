@@ -26,8 +26,9 @@
 }
 
 .lowQuote {
-  padding-top: 2%;
-  font-size: 1.28rem;
+  padding-top: 2.5%;
+  font-size: 1rem;
+  font-family: 'Pacifico', cursive;
 }
 
 .lowList {
