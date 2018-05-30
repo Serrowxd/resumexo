@@ -10,7 +10,7 @@ class LowerBody extends Component {
       <div className="lowerB C">
         <Container className="lowerC">
           <Row>
-            <Col sm={{ size: 3, offset: 0 }} className="lowerCol">
+            <Col sm={{ size: 3, offset: 0 }} className="lowerCol hid">
               <img class="img" src={img} alt="shaprint" />
             </Col>
             <Col sm={{ size: 9, offset: 0 }} className="lowerCol lowerR">

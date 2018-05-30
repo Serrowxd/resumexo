@@ -61,11 +61,101 @@ body {
   }
 
   .headerB {
-    height: 749px !important;
+    height: 649px !important;
   }
 }
 
 /* 414px */
 
 @media (max-width: 414px) {
+  /* Header */
+
+  .display-1 {
+    padding-top: 10% !important;
+    font-size: 4rem !important;
+  }
+
+  .display-4 {
+    margin-top: 4rem !important;
+    font-size: 2.5rem !important;
+  }
+
+  .bottomQuote {
+    margin-top: 5rem !important;
+    font-size: 1.3rem !important;
+  }
+
+  /* LowerHeader */
+
+  .lowerHead {
+    font-size: 2.5rem !important;
+  }
+
+  .lowerText {
+    font-size: 1.4rem !important;
+    padding: 0% !important;
+  }
+
+  .lowerGoal {
+    font-size: 1.4rem !important;
+  }
+
+  /* UpperBody */
+
+  .upperBody {
+    height: 65rem !important;
+  }
+
+  .whatDo {
+    padding-top: 2rem;
+    font-size: 2.5rem !important;
+  }
+
+  .whatDoT {
+    font-size: 1.7rem !important;
+  }
+
+  .whatDoP {
+    font-size: 1.3rem !important;
+  }
+
+  .upperL {
+    margin-top: -3rem;
+    text-align: left !important;
+    padding-left: 1.2rem;
+  }
+
+  /* LowerBody */
+
+  .lowerB {
+    height: 57rem !important;
+  }
+
+  .hid {
+    display: none;
+  }
+
+  .lowerCol {
+    min-width: 22.5rem !important;
+  }
+
+  .lowerTxt {
+    font-size: 2rem !important;
+  }
+
+  .lowh {
+    font-size: 1.2rem;
+  }
+
+  .lowhh {
+    font-size: 1.2rem;
+  }
+
+  .lowList {
+    font-size: 1rem !important;
+  }
+
+  .lowQuote {
+    padding-top: 4rem !important;
+  }
 }
