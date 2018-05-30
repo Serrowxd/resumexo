@@ -1,3 +1,71 @@
 body {
   font-family: Segoe UI Light !important;
 }
+
+/* Media Breakpoints */
+
+/* 1440px */
+
+@media (max-width: 1440px) {
+  /* LowerBody */
+
+  .lowerTxt {
+    font-size: 3.5rem !important;
+  }
+
+  .lowerB {
+    height: 42rem !important;
+  }
+
+  .img {
+    padding-top: 6rem !important;
+  }
+
+  .lowh {
+    font-size: 1.4rem;
+  }
+
+  .lowhh {
+    font-size: 1.4rem;
+  }
+
+  .lowList {
+    font-size: 1.1rem !important;
+  }
+
+  .lowQuote {
+    padding-top: 3.5% !important;
+  }
+
+  /* Header */
+
+  .headerB {
+    height: 849px !important;
+  }
+}
+
+/* 1024px */
+
+@media (max-width: 1024px) {
+  /* LowerBody */
+
+  .img {
+    padding-top: 7.2rem !important;
+    padding-right: 2rem;
+  }
+
+  /* Header */
+
+  .display-1 {
+    padding-top: 0% !important;
+  }
+
+  .headerB {
+    height: 749px !important;
+  }
+}
+
+/* 414px */
+
+@media (max-width: 414px) {
+}

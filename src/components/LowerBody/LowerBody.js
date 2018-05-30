@@ -17,7 +17,7 @@ class LowerBody extends Component {
               <h1 className="lowerTxt">
                 <span> - Kevin Jolley </span>
               </h1>
-              <h4>
+              <h4 className="lowh">
                 I have worked with computers my entire life, dating back to my
                 first experience at the age of 3 when I played Doom on a Windows
                 '95 computer in my Grandpa's office, all the way up to current
@@ -51,7 +51,7 @@ class LowerBody extends Component {
                   "Ok, but how did you do that?" | Mother - 2002{' '}
                 </li>
               </ul>
-              <h4>
+              <h4 className="lowhh">
                 Though I only started my quest into the world of code, I hit the
                 ground running and haven't let up since.
               </h4>
