@@ -14,7 +14,9 @@ class UpperBody extends Component {
               <h4 className="whatDoT">
                 <span>Languages</span>
               </h4>
-              <p className="whatDoP">JavaScript, C, HTML5, CSS3, Markdown</p>
+              <p className="whatDoP">
+                JavaScript, Python, C, HTML5, CSS3, Markdown
+              </p>
               <h4 className="whatDoT">
                 <span>Front-End</span>
               </h4>

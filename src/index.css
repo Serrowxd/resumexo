@@ -63,11 +63,16 @@ body {
   .headerB {
     height: 649px !important;
   }
+
+  .bottomQuote {
+    margin-top: 5rem !important;
+    font-size: 1.3rem !important;
+  }
 }
 
 /* 414px */
 
-@media (max-width: 414px) {
+@media (max-width: 714px) {
   /* Header */
 
   .display-1 {
@@ -136,7 +141,8 @@ body {
   }
 
   .lowerCol {
-    min-width: 22.5rem !important;
+    /* min-width: 22.5rem !important; */
+    min-width: 100% !important;
   }
 
   .lowerTxt {
