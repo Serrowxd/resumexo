@@ -4,11 +4,11 @@
 
 #### To-Do
 
-* I'd like to get a button that swaps the page from a light color scheme to a dark one (something that adjusts the CSS styles)
+- I'd like to get a button that swaps the page from a light color scheme to a dark one (something that adjusts the CSS styles)
 
-* Phone Layout!
+- Possible padding adjustments to UpperBody that allow it to be more uniform - there is an uneven gap between the two and if I bring them closer together it might help.
 
-* Possible padding adjustments to UpperBody that allow it to be more uniform - there is an uneven gap between the two and if I bring them closer together it might help.
+- Addition of testing environment experience - Mocha, Chai, etc
 
 ## Project Notes
 
