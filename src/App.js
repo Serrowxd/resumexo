@@ -33,10 +33,10 @@ class App extends Component {
         <div>
           <LowerBody />
         </div>
-        <div>
+        <div className="D">
           <Contact />
         </div>
-        <div>
+        <div className="D">
           <Footer />
         </div>
       </div>

@@ -2,6 +2,33 @@ body {
   font-family: Segoe UI Light !important;
 }
 
+/* INVERT */
+
+/* Inverts the color scheme of the website */
+/* Make sure you change the image tags with the className - | this changes it as well */
+
+:root {
+  filter: invert(100%);
+}
+
+.img {
+  filter: invert(100%) !important;
+}
+
+.imgNav {
+  filter: invert(100%) !important;
+}
+
+.upperF:hover {
+  filter: invert(100%) !important;
+}
+
+span {
+  filter: invert(100%) !important;
+}
+
+/* END INVERT */
+
 /* Media Breakpoints */
 
 /* 1440px */

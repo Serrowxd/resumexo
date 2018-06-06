@@ -15,8 +15,10 @@ class Header extends Component {
               JavaScript Fanatic, Front-End Developer, Avid Writer
             </p>
             <p className="bottomQuote">
-              "I always get to where I'm going by walking away from where I've
-              been"
+              <span>
+                "I always get to where I'm going by walking away from where I've
+                been"
+              </span>
             </p>
           </Container>
         </Jumbotron>

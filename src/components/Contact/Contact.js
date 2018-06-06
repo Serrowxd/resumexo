@@ -16,7 +16,7 @@ import './Contact.css';
 class Contact extends Component {
   render() {
     return (
-      <Container className="contactContainer">
+      <Container className="contactContainer D">
         <Row>
           <Col>
             <h1 className="contactTxt">Get ahold of me!</h1>

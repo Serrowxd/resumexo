@@ -1,11 +1,7 @@
 .lowerHead {
-  /* background-color: darkgray; */
-  /* color: whitesmoke; */
-  display: block;
-  margin: 0 auto;
   text-align: center;
-  padding-top: 50px;
-  margin-top: 20px;
+  padding-top: 70px; /* changed it from 5px with the lower margin */
+  /* margin-top: 20px; */
   font-size: 50px;
 }
 
@@ -22,4 +18,5 @@
   text-align: center;
   margin-top: 10px;
   padding-bottom: 100px;
+  margin-bottom: 0;
 }
