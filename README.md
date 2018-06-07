@@ -22,6 +22,8 @@ https://praneshravi.in/
 
 https://pierre.io/
 
+https://brittanychiang.com/
+
 ## Dependencies:
 
 `react`
