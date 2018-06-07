@@ -49,7 +49,7 @@ class Contact extends Component {
                   placeholder="Phone Number"
                 />
               </FormGroup>
-              <Button className="contactButton"> Submit </Button>
+              {/* <Button className="contactButton"> Submit </Button> */}
             </Form>
           </Col>
         </Row>

@@ -43,7 +43,7 @@ class LowerBody extends Component {
                   Top 50 World Feral Druid | World of Warcraft - 2017{' '}
                 </li>
                 <li className="lowList">
-                  Master of Techology, and all things that may not work |
+                  Master of Computers, and all things that may not work |
                   Grandmother - 1998
                 </li>
                 <li className="lowList">

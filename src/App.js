@@ -13,6 +13,10 @@ import LowerBody from './components/LowerBody/LowerBody';
 import Contact from './components/Contact/Contact';
 import Footer from './components/Footer/Footer';
 
+// import ReUpper from './components/UpperBody/ReUpper';
+
+// Going to redo the upper boddy with this file, not sure when but I have a plan for it - check Readme
+
 class App extends Component {
   render() {
     return (
@@ -26,6 +30,7 @@ class App extends Component {
         </div>
         <div className="upperBodyDiv">
           <UpperBody />
+          {/* <ReUpper /> */}
         </div>
         <div>
           <Body />

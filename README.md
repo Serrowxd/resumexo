@@ -10,6 +10,16 @@
 
 - Addition of testing environment experience - Mocha, Chai, etc
 
+- Possibly a reading list of my book preferences and then some music playlists.
+
+- Revamp the lower section regarding skills, make different areas
+  - Languages
+  - Frameworks
+  - Front-End
+  - Back-End
+  - Mobile
+  - Testing
+
 ## Project Notes
 
 After multiple attempts, I'm going to try and make something really simplistic. Listing inspiration below.

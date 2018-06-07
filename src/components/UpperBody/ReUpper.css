@@ -1,0 +1,53 @@
+.upperBody {
+  padding-top: 4%;
+  height: 40rem;
+  /* background-color: #000000fa !important; */
+  /* color: whitesmoke; */
+}
+
+.whatDoCol {
+  margin-left: 6%;
+}
+
+.whatDo {
+  font-size: 3.5rem;
+  padding-bottom: 3%;
+}
+
+.whatDoT {
+  padding-left: 1%;
+  font-size: 2rem;
+}
+
+.whatDoP {
+  padding-left: 2%;
+
+  font-size: 1.5rem;
+}
+
+.upperL {
+  padding-bottom: 0;
+  text-align: center;
+  /* margin-left: 0%; */
+  /* margin-right: 28%; */
+}
+
+.upperF {
+  margin-right: 0%;
+}
+
+.upperF:link,
+.upperF:visited {
+  color: black;
+  /* color: whitesmoke; */
+}
+
+.upperF:hover {
+  text-decoration: none;
+  /* color: #00d9ff; */
+  color: #ca1bfc;
+}
+
+.colLink {
+  padding-top: 3rem;
+}
