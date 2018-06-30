@@ -7,7 +7,7 @@ body {
 /* Inverts the color scheme of the website */
 /* Make sure you change the image tags with the className - | this changes it as well */
 
-:root {
+/* :root {
   filter: invert(100%);
 }
 
@@ -25,7 +25,7 @@ body {
 
 span {
   filter: invert(100%) !important;
-}
+} */
 
 /* END INVERT */
 
